@@ -1,0 +1,2 @@
+# lsRepository
+for fun
